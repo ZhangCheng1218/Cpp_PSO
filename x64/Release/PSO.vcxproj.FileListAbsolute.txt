@@ -1,0 +1,2 @@
+C:\Users\Administrator\Documents\GitHub\PSO\x64\Release\PSO.exe
+C:\Users\Administrator\Documents\GitHub\Cpp_PSO\x64\Release\PSO.exe
